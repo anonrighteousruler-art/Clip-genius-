@@ -1,0 +1,5 @@
+{
+  "name": "ClipGenius",
+  "description": "Generate short video clips with custom music from images or camera capture.",
+  "requestFramePermissions": ["camera"]
+}
